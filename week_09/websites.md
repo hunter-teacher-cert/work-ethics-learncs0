@@ -9,4 +9,4 @@ https://learncs0.github.io/web-demo-2021/demo1.html
 https://learncs0.github.io/web-demo-2021/subdirectory/demo2.html
 
 
-3. The name of your partner if you're working with one-NO PARTNER
+3. The name of your partner if you're working with one-No Partner
